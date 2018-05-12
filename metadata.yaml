@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Frank_Arthur_Swinnerton
 description: This is a captivating story about a lower-class London family and a romantic
   adventure unfolds over the course of just one evening.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15177#Nocturne
 gutenberg_issued: '2005-02-26'
 gutenberg_type: Text
 identifiers:
